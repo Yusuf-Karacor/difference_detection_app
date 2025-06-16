@@ -71,4 +71,21 @@ git clone https://github.com/Yusuf-Karacor/difference_detection_app
 cd difference_detection_app
 pip install -r requirements.txt
 python main_2.py
-'''
+```
+
+<h2 align="center">📷 Example Outputs</h2>
+
+<p align="center">
+<strong>Application Interface</strong><br/>
+<img src="https://github.com/user-attachments/assets/319ed9da-768c-4fca-831a-bcf0342e00b5" width="600"/>
+</p>
+
+<p align="center">
+<strong>Difference Visualization with Heatmap</strong><br/>
+<img src="https://github.com/user-attachments/assets/938d4671-10a1-4861-9b67-f7292bdf3bb2" width="600"/>
+</p>
+
+<p align="center">
+<strong>Results Vary Based on Selected Model and Metric</strong>
+</p>
+
