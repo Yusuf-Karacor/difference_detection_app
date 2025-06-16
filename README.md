@@ -25,12 +25,12 @@ Kullanıcı, arayüz üzerinden iki adet görüntü yükleyebilir.
 Görseller arasında fark analizi için aşağıdaki yöntemlerden biri seçilebilir:
 </p>
 
-<ul align="center">
-  <li>📏 Öklid (Euclidean) Mesafesi</li>
-  <li>📐 Kosinüs Benzerliği (Cosine Similarity)</li>
-  <li>📊 Manhattan Mesafesi</li>
-  <li>🧩 SSIM (Structural Similarity Index)</li>
-</ul>
+<p align="center">
+  📏 Öklid (Euclidean) Mesafesi</li>
+  📐 Kosinüs Benzerliği (Cosine Similarity)</li>
+  📊 Manhattan Mesafesi</li>
+  🧩 SSIM (Structural Similarity Index)</li>
+</p>
 
 <p align="center">
 Derin özellik çıkarımı için desteklenen CNN modelleri:
